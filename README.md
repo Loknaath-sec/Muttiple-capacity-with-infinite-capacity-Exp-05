@@ -1,4 +1,4 @@
-# Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
+# EXP 05 - Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
 
 ### Name :  LOKNAATH.P
 ### Register Number : 212223240080
@@ -27,7 +27,7 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Program : 
-```
+```python
 import math
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time=float(input("Enter the mean  inter service time of Lathe Machine (in secs) :  "))
